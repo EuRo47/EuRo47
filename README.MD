@@ -1,5 +1,5 @@
 <h2> Hi, I'm Yevhenii !  <img src="https://media0.giphy.com/media/1oErlCqmxFX54gsxrB/giphy.gif?cid=ecf05e47uh1cajopc0yptv91fohrpef1bjpf57chob993ww0&rid=giphy.gif&ct=s" width="50"></h2>
-<img align='right' src="https://media4.giphy.com/media/ZDTbix65Me1YDNLDF3/giphy.gif?cid=ecf05e47z7k3txjngq74qi8ll2lclsxz30voasufziaojc40&rid=giphy.gif&ct=ts" width="222">
+<img align='right' src="https://media3.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47als2pwdwow4ablldbli7vgjghiujqm7zdvk6tms7&rid=giphy.gif&ct=g" width="262">
 <em>Front-end development course student at <a href ="https://robotdreams.cc/uk">robot_dreams</a> <img src="https://kursfinder.ru/media/subject/118085139_110661654087497_8879556297708409773_o.medium.jpg" width="22"></em> <br>
 I am working on some pet projects, learning how to code properly, and trying hit 150 kg squat :smile:
  
