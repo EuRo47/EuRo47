@@ -16,7 +16,7 @@ const Yevhenii = {
            music: "harmonica learner",
            digital-art: "sphere, cube, cylinder",
          },
- challenge: "get a job in IT"
+  challenge: "get a job in IT"
 }
 ```
 
